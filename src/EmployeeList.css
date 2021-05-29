@@ -1,0 +1,25 @@
+/* author Akshay Jadhav 29/05/2021 */
+
+.listStyle {
+    height : 250px;
+    display: flex;
+    flex-direction: column;
+  }
+  .titleStyle {
+    margin: auto;
+    display: table;
+  }
+  
+  .tableStyle {
+    margin: auto;
+    padding: 10px;
+    border: #292323;
+    background: #f5f5f5;
+    width: 350px;
+    display: block;
+  }
+
+  table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
